@@ -10,7 +10,8 @@ This project analyzes Walmart sales data (2010–2012) to uncover seasonal trend
 4. Perform time series forecasting to predict weekly sales using ARIMA models.
 
 ## **Dataset**
-The dataset is sourced from Kaggle: **[Walmart Store Sales](https://www.kaggle.com/datasets/yasserh/walmart-dataset)**.  
+The dataset is sourced from Kaggle: **([Walmart Sales Data](Walmart.xlsx)
+)**.  
 It includes:
 - **Store**: Store number.
 - **Date**: Week of sales.
